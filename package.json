@@ -1,0 +1,21 @@
+{
+  "name": "tailwindcss-class-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^18.2.1",
+    "puppeteer-jquery": "^0.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.3",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
